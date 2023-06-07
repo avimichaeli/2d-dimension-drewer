@@ -1,0 +1,36 @@
+C:\Users\nadav\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nadav\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nadav\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nadav\source\repos\WindowsFormsApp1\obj\Debug\Ex1.csprojAssemblyReference.cache
+C:\Users\nadav\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nadav\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nadav\source\repos\WindowsFormsApp1\obj\Debug\Ex1.csproj.GenerateResource.cache
+C:\Users\nadav\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nadav\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nadav\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nadav\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nadav\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nadav\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nadav\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nadav\WindowsFormsApp1\obj\Debug\Ex1.csproj.GenerateResource.cache
+C:\Users\nadav\WindowsFormsApp1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\nadav\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nadav\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Home\Desktop\Homework1\WindowsFormsApp1\obj\Debug\Ex1.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Homework1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Home\Desktop\Homework1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Home\Desktop\Homework1\WindowsFormsApp1\obj\Debug\Ex1.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Homework1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Home\Desktop\Homework1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Home\Desktop\Homework1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Home\Desktop\Homework1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Home\Desktop\Homework1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Home\Desktop\תרגיל 1 גרפיקה ממוחשבת\תרגיל 1 גרפיקה ממוחשבת\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Home\Desktop\תרגיל 1 גרפיקה ממוחשבת\תרגיל 1 גרפיקה ממוחשבת\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Home\Desktop\תרגיל 1 גרפיקה ממוחשבת\תרגיל 1 גרפיקה ממוחשבת\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Home\Desktop\תרגיל 1 גרפיקה ממוחשבת\תרגיל 1 גרפיקה ממוחשבת\WindowsFormsApp1\obj\Debug\Ex1.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\תרגיל 1 גרפיקה ממוחשבת\תרגיל 1 גרפיקה ממוחשבת\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Home\Desktop\תרגיל 1 גרפיקה ממוחשבת\תרגיל 1 גרפיקה ממוחשבת\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Home\Desktop\תרגיל 1 גרפיקה ממוחשבת\תרגיל 1 גרפיקה ממוחשבת\WindowsFormsApp1\obj\Debug\Ex1.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\תרגיל 1 גרפיקה ממוחשבת\תרגיל 1 גרפיקה ממוחשבת\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Home\Desktop\תרגיל 1 גרפיקה ממוחשבת\תרגיל 1 גרפיקה ממוחשבת\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
